@@ -116,7 +116,7 @@ o	Recall
    
 __Google Colab Link:_
 
-https://github.com/asgharkhanbrokhanbro-lgtm/AI-Assignment/blob/main/Heart_Diseases_prediction.ipynb
+https://colab.research.google.com/drive/1srVlfcfuCa_Z4df2opxZCSR3sxZonTyg#scrollTo=AwPFqnl_LoJe
 
  
 ⚛️ __Tools Used__
